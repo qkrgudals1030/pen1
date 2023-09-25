@@ -19,6 +19,16 @@
 #### 6. 키보드 1~9까지 누르면 펜의 굵기를 바꿀 수 있다. 
 ![image](https://github.com/qkrgudals1030/pen1/assets/50895124/20ffa172-27e0-4575-be68-c534274c5ae3)
 
+### 코드
+
+#### 콘텍스트 메뉴에서 색깔 변경 코드
+![image](https://github.com/qkrgudals1030/pen1/assets/50895124/e05c5229-8b8b-4481-b276-c8cdcbca86cb)
+
+#### 콘텍스트 메뉴에서 팬의 굵기 변경
+![image](https://github.com/qkrgudals1030/pen1/assets/50895124/22d66a4d-afc5-46cc-a457-3ad06e14f804)
+
+#### 키보드1~9까지 누르면 펜의 굵기가 바뀌는 코드
+![image](https://github.com/qkrgudals1030/pen1/assets/50895124/6858c868-9808-4fc9-bc2a-9be0a727609c)
 
 
 
